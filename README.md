@@ -34,7 +34,7 @@ streamlit run chatpdf.py
 4. Once uploaded, click "Submit & Process" to index the content of the PDFs.
 5. After processing, ask a question in the text input field to get responses based on the PDF content.
 
-# Generative AI exploratory projects using Gemini
+## Generative AI exploratory projects using Gemini
 This repo also includes other simple projects that include utilization of the gemini-vision model, and a basic QnA system with a memory storage system.
 
 ## Credits
