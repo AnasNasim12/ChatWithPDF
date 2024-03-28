@@ -1,4 +1,3 @@
-# Generative AI exploratory projects using Gemini
 # PDF Chatbot
 
 A Streamlit application that enables users to upload multiple PDF files and interact with the content through a conversational interface. It employs the Retrieval-Augmented Generation (RAG) algorithm via FAISS and Google's Generative Pre-trained Transformer for responsive and context-aware answers.
@@ -34,6 +33,9 @@ streamlit run chatpdf.py
 3. Use the sidebar to upload PDF files by clicking on the "Upload your PDF Files" button.
 4. Once uploaded, click "Submit & Process" to index the content of the PDFs.
 5. After processing, ask a question in the text input field to get responses based on the PDF content.
+
+# Generative AI exploratory projects using Gemini
+This repo also includes other simple projects that include utilization of the gemini-vision model, and a basic QnA system with a memory storage system.
 
 ## Credits
 
