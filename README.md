@@ -11,6 +11,9 @@ A Streamlit application that enables users to upload multiple PDF files and inte
 - Create a FAISS index of embeddings for efficient similarity search.
 - Utilize Google's Gemini LLM Model for generating responses to user queries.
 
+![image](https://github.com/AnasNasim12/ChatWithPDF/assets/106335309/c1e754a6-317c-4b37-ab4d-e074a8806629)
+
+
 ## Installation
 
 1. Clone this repository to your local environment.
